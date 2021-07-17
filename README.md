@@ -47,3 +47,5 @@ https://user-images.githubusercontent.com/68492734/126047844-2eae1615-b4f3-4cae-
 * Vax-san for translating and making a database with all the useful information.
 * hiroaki362 for making this tool that we used for long years to play MHF.
 * Gigaproto for making the pseudo online patch.
+
+## All info was taken from: http://mh2kaiseki.web.fc2.com/index.html
