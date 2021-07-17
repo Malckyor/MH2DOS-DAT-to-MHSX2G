@@ -33,6 +33,14 @@ Just get the files and extract them in the tool's folder overwriting all origina
 No. I'm only sharing these files so everybody can create their own mixed sets, everything aside from these instrunctions and notes I will not provide, you are on your own, I believe in you, so just don't be lazy and be determined to learn a few things!
 
 
+## Here's a little something...
+
+
+https://user-images.githubusercontent.com/68492734/126047844-2eae1615-b4f3-4cae-9dec-009e9a069f26.mp4
+
+
+
+
 ## Special thanks to:
 * Capcom for creating this awesome game.
 * Burango for making the English patch and some crazy patches for the online content which we used about 10 years ago, good ol' days.
