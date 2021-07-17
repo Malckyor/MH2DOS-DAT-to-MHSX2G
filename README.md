@@ -46,6 +46,6 @@ https://user-images.githubusercontent.com/68492734/126047844-2eae1615-b4f3-4cae-
 * Burango for making the English patch and some crazy patches for the online content which we used about 10 years ago, good ol' days. (https://monsterhunterdos.weebly.com/)
 * Vax-san for translating and making a database with all the useful information. (http://mh2db.atwebpages.com/)
 * hiroaki362 for making this tool that we used for long years to play MHF. (https://hiroaki362.hatenablog.com/archive/category/MHSX2dat)
-* Gigaproto for making the pseudo online patch. (https://www.youtube.com/playlist?list=PLBtU870Zh_Y43HMVydcoluppM2Y9eSUm7)
+* Gigaproto for making the pseudo online patch. (https://www.youtube.com/watch?v=Hv9kGTHd-fk)
 
 ## All info was taken from: http://mh2kaiseki.web.fc2.com/index.html
