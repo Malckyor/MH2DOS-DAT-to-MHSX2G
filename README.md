@@ -20,7 +20,7 @@ The game is in Japanese, the tool is in Japanese, the database is in Japanese...
 
 * A tip: before you finish the creation (after you find the set you want), try to add the same parts manually to check if the tool used the best decorations, sometimes it can show you that you need 5 X decos and you have parts with 2 slots and might have the +3 deco that uses 2 slots. If you are low rank than try limitting the search to HR30, above that you will get high rank results.
 
-* I use the latest MHSX2G's version since I am a Frontier veteran.
+* I use the latest MHSX2G's version (20191218) since I am a Frontier veteran. Oh, you can still use this tool for MHF if you make a backup of the original files.
 
 
 ## What is needed?
