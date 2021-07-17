@@ -34,12 +34,8 @@ No. I'm only sharing these files so everybody can create their own mixed sets, e
 
 
 ## Special thanks to:
-Capcom for creating this awesome game.
-
-Burango for making the English patch and some crazy patches for the online content which we used about 10 years ago, good ol' days.
-
-Vax-san for translating and making a database with all the useful information.
-
-hiroaki362 for making this tool that we used for long years to play MHF.
-
-Gigaproto for making the pseudo online patch.
+* Capcom for creating this awesome game.
+* Burango for making the English patch and some crazy patches for the online content which we used about 10 years ago, good ol' days.
+* Vax-san for translating and making a database with all the useful information.
+* hiroaki362 for making this tool that we used for long years to play MHF.
+* Gigaproto for making the pseudo online patch.
