@@ -4,6 +4,7 @@ What is this?
 
 This is a project to use the tool called MHSX2G (used to make mixed sets for Monster Hunter Frontier) and the modified MH2DOS' "dat" files by me to create Monster Hunter 2 DOS mixed sets.
 
+
 Is this in English? Will there be any?
 The game is in Japanese, the tool is in Japanese, the database is in Japanese... This is a Japanese tool made by a Japanese to use in a Japanese game. So why should I do it in English? If one day someone can make a better and polished English version than Burango did, then that day I can think of translating the files. Until that day (that I'm sure it will never come) anyone is free to get the files and translate themselves.
 
