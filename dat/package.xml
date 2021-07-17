@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package>
+  <id>mhsx2g_dat</id>
+  <name>MH2DOS dat Adapted by Malckyor</name>
+  <description>すべての防具・装飾品を含むdat</description>
+  <version>20191218.0</version>
+  <formatVersion>20190210.0</formatVersion>
+  <homepage>
+    <name>びゅわ置き場（仮）</name>
+    <url>https://www.byuwa.com/</url>
+  </homepage>
+  <repository>
+    <url>https://www.byuwa.com/update/mhsx2g_dat/</url>
+  </repository>
+  <author>
+    <name>hiroaki362</name>
+    <email>hiroaki362@gmail.com</email>
+  </author>
+  <contents>
+    <file hash="8432e10f69a46f35deb3235eb22781d2">Alias.xml</file>
+    <file hash="4ac715110c3ec2a97582cc2afbafedf8">Classes.xml</file>
+    <file hash="c9b543173e03b2042b89aba648f1de22">EquipArm.xml</file>
+    <file hash="5619f8aebe055a0afba452e2de61c3d0">EquipBody.xml</file>
+    <file hash="d13422b851a043e36ac89f0a62d3cf6d">EquipHead.xml</file>
+    <file hash="1fd6273e87ce0217a44886a10db72106">EquipLeg.xml</file>
+    <file hash="da572bef17e6a524c010f31453c8ec13">EquipWst.xml</file>
+    <file hash="79d41804c5a526d3b5a7e1559846d84b">Image.xml</file>
+    <file hash="84599b1b2f94615906351f2a276095c0">Item.xml</file>
+    <file hash="efb5f7c2451f9bb75f7de4d45ef9abf7">Jewel.xml</file>
+    <file hash="169399f97e275ed074dc03eb261aa4a8">SkillBase.xml</file>
+    <file hash="876902f96a31027cac7b67fcdcf961a0">SkillCuff.xml</file>
+    <file hash="ec508e7e2bc0557e744c6be4c5c979fc">TeniSkillBase.xml</file>
+    <file hash="473ce7d5929c1de49f79ac9317f873be">Weapon.xml</file>
+  </contents>
+</package>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<Define xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>20190210</Version>
+  <ABILITY_TYPE_GCLASS_EFFECT>Ｇ級効果</ABILITY_TYPE_GCLASS_EFFECT>
+  <ABILITY_TYPE_SKILL_UP>スキルUP</ABILITY_TYPE_SKILL_UP>
+  <ABILITY_TYPE_ACTIVATE_SKILL>スキル発動</ABILITY_TYPE_ACTIVATE_SKILL>
+  <ABILITY_TYPE_ATTACHABLE_SPJEWELS>ＳＰ装飾品装着可能</ABILITY_TYPE_ATTACHABLE_SPJEWELS>
+  <ABILITY_TYPE_SKILL_LIMIT_UP>スキル枠拡張</ABILITY_TYPE_SKILL_LIMIT_UP>
+  <ABILITY_TYPE_SKILL_UPGRADE>スキル強化</ABILITY_TYPE_SKILL_UPGRADE>
+  <ABILITY_TYPE_NOCOUNT_SKILL>スキル枠消費なし</ABILITY_TYPE_NOCOUNT_SKILL>
+  <MAX_SKILL_LIMIT_UP>7</MAX_SKILL_LIMIT_UP>
+  <RankLimitKind>
+    <string>HR</string>
+    <string>SR</string>
+    <string>GR</string>
+    <string>GSR</string>
+  </RankLimitKind>
+  <DAT_FORMAT_VERSION>20190210.0</DAT_FORMAT_VERSION>
+</Define>

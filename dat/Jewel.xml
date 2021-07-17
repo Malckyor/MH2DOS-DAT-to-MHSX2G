@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Jewel>
+  <Normal>
+    <Data Name="腕力珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">攻撃</Skill>
+          <Skill Point="-1">防御</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">怪力の種</Item>
+        <Item Num="1">とがった爪</Item>
+        <Item Num="1">竜の爪</Item>
+      </Cost>
+    </Data>
+    <Data Name="怪力珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">攻撃</Skill>
+          <Skill Point="-1">防御</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">大きな骨</Item>
+        <Item Num="2">雪獅子の牙</Item>
+      </Cost>
+    </Data>
+    <Data Name="剛力珠" Job="共" Rare="5" Slot="3">
+      <Skills>
+          <Skill Point="5">攻撃</Skill>
+          <Skill Point="-1">防御</Skill>
+      </Skills>
+      <Cost Type="create" Money="900">
+        <Item Num="1">瑠璃原珠</Item>
+        <Item Num="1">金獅子の尖角</Item>
+        <Item Num="1">怪力の丸薬</Item>
+      </Cost>
+    </Data>
+    <Data Name="守護珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">防御</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">盾蟹の甲殻</Item>
+      </Cost>
+    </Data>
+    <Data Name="防御珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">防御</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">竜頭殻</Item>
+      </Cost>
+    </Data>
+    <Data Name="剛体珠" Job="共" Rare="5" Slot="3">
+      <Skills>
+          <Skill Point="5">防御</Skill>
+      </Skills>
+      <Cost Type="create" Money="900">
+        <Item Num="1">瑠璃原珠</Item>
+        <Item Num="2">鎧竜の頭殻</Item>
+      </Cost>
+    </Data>
+    <Data Name="耐絶珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">気絶</Skill>
+          <Skill Point="-1">食事</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="2">ランポスの牙</Item>
+      </Cost>
+    </Data>
+    <Data Name="抗絶珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="2">気絶</Skill>
+          <Skill Point="-1">食事</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">ドスランポスの爪</Item>
+      </Cost>
+    </Data>
+    <Data Name="覚醒珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">気絶</Skill>
+          <Skill Point="-1">食事</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">古龍骨</Item>
+      </Cost>
+    </Data>
+    <Data Name="耐麻痺珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">麻痺</Skill>
+          <Skill Point="-1">加護</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">ゲネポスの麻痺牙</Item>
+      </Cost>
+    </Data>
+    <Data Name="抗麻痺珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">麻痺</Skill>
+          <Skill Point="-1">加護</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">麻痺袋</Item>
+      </Cost>
+    </Data>
+    <Data Name="耐眠珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">睡眠</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">氷結晶</Item>
+      </Cost>
+    </Data>
+    <Data Name="絶眠珠" Job="共" Rare="4" Slot="2">
+      <Skills>
+          <Skill Point="2">睡眠</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">ドスヘラクレス</Item>
+        <Item Num="1">氷結晶</Item>
+      </Cost>
+    </Data>
+    <Data Name="抗毒珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">毒</Skill>
+          <Skill Point="-1">耐雪</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="2">サボテンの花</Item>
+      </Cost>
+    </Data>
+    <Data Name="断毒珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">毒</Skill>
+          <Skill Point="-1">耐雪</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="2">毒袋</Item>
+        <Item Num="1">漢方薬</Item>
+      </Cost>
+    </Data>
+    <Data Name="抗力珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">抗菌・抗毒</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">大地の結晶</Item>
+        <Item Num="1">氷結晶</Item>
+      </Cost>
+    </Data>
+    <Data Name="抗菌珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">抗菌・抗毒</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="2">抗菌石</Item>
+      </Cost>
+    </Data>
+    <Data Name="強腰珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">耐震</Skill>
+          <Skill Point="-1">睡眠</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="2">大地の結晶</Item>
+        <Item Num="1">雪獅子の牙</Item>
+      </Cost>
+    </Data>
+    <Data Name="美声珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">声帯</Skill>
+          <Skill Point="-1">抗菌・抗毒</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">活力剤</Item>
+        <Item Num="1">蜜トンボ</Item>
+      </Cost>
+    </Data>
+    <Data Name="雪玉珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">耐雪</Skill>
+          <Skill Point="-1">気絶</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="2">氷結晶</Item>
+      </Cost>
+    </Data>
+    <Data Name="忍脚珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">気絶</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">キラビートル</Item>
+        <Item Num="1">ランゴスタの羽</Item>
+      </Cost>
+    </Data>
+    <Data Name="元気珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">体力</Skill>
+          <Skill Point="-1">食事</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽光石</Item>
+        <Item Num="5">サボテンの花</Item>
+      </Cost>
+    </Data>
+    <Data Name="体力珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">体力</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">ドキドキノコ</Item>
+      </Cost>
+    </Data>
+    <Data Name="覇力珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">体力</Skill>
+          <Skill Point="-1">食事</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">瑠璃原珠</Item>
+        <Item Num="1">アルビノエキス</Item>
+        <Item Num="1">モノブロスハート</Item>
+      </Cost>
+    </Data>
+    <Data Name="匠珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">匠</Skill>
+          <Skill Point="-1">底力</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">モノブロスハート</Item>
+        <Item Num="10">星鉄</Item>
+      </Cost>
+    </Data>
+    <Data Name="匠珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">匠</Skill>
+          <Skill Point="-1">底力</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">瑠璃原珠</Item>
+        <Item Num="1">老山龍の堅殻</Item>
+        <Item Num="1">古龍の血</Item>
+      </Cost>
+    </Data>
+    <Data Name="斬鉄珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">斬れ味</Skill>
+          <Skill Point="-1">スタミナ</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">鋼龍の爪</Item>
+        <Item Num="2">魚竜の牙</Item>
+      </Cost>
+    </Data>
+    <Data Name="斬空珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">斬れ味</Skill>
+          <Skill Point="-1">スタミナ</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">鋼龍の尻尾</Item>
+        <Item Num="2">雪獅子の牙</Item>
+      </Cost>
+    </Data>
+    <Data Name="達人珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">達人</Skill>
+          <Skill Point="-1">回復</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">鎌蟹の爪</Item>
+        <Item Num="2">雪獅子の牙</Item>
+      </Cost>
+    </Data>
+    <Data Name="仙人珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">達人</Skill>
+          <Skill Point="-1">回復</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">鎌蟹の鋏</Item>
+        <Item Num="1">霞龍の爪</Item>
+      </Cost>
+    </Data>
+    <Data Name="研磨珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">研ぎ師</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">大地の結晶</Item>
+        <Item Num="1">とがった爪</Item>
+      </Cost>
+    </Data>
+    <Data Name="鉄壁珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">ガード性能</Skill>
+          <Skill Point="-1">スタミナ</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">竜頭殻</Item>
+        <Item Num="1">盾蟹の爪</Item>
+      </Cost>
+    </Data>
+    <Data Name="天盾珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">自動防御</Skill>
+          <Skill Point="-1">研ぎ師</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="3">鎌蟹の小殻</Item>
+        <Item Num="1">朽ちた龍鱗</Item>
+      </Cost>
+    </Data>
+    <Data Name="天壁珠" Job="共" Rare="5" Slot="3">
+      <Skills>
+          <Skill Point="3">自動防御</Skill>
+          <Skill Point="-2">研ぎ師</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">鎌蟹の甲殻</Item>
+        <Item Num="1">錆びた甲殻</Item>
+      </Cost>
+    </Data>
+    <Data Name="力投珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">投擲</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">大きな骨</Item>
+        <Item Num="1">ドスランポスの爪</Item>
+      </Cost>
+    </Data>
+    <Data Name="抑反珠" Job="ガンナー" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">反動</Skill>
+          <Skill Point="-1">はらへり</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">鎌蟹の爪</Item>
+        <Item Num="1">古龍骨</Item>
+      </Cost>
+    </Data>
+    <Data Name="反動珠" Job="ガンナー" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="2">反動</Skill>
+          <Skill Point="-1">はらへり</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">瑠璃原珠</Item>
+        <Item Num="1">砦蟹の鋏</Item>
+        <Item Num="1">竜玉</Item>
+      </Cost>
+    </Data>
+    <Data Name="強弾珠" Job="ガンナー" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">通常弾強化</Skill>
+          <Skill Point="-1">装填</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">紅蓮石</Item>
+        <Item Num="5">爆薬</Item>
+      </Cost>
+    </Data>
+    <Data Name="貫通珠" Job="ガンナー" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">貫通弾強化</Skill>
+          <Skill Point="-1">装填</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="2">鎌蟹の爪</Item>
+        <Item Num="3">火炎袋</Item>
+      </Cost>
+    </Data>
+    <Data Name="散弾珠" Job="ガンナー" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">散弾強化</Skill>
+          <Skill Point="-1">装填</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">雪獅子の毛</Item>
+        <Item Num="1">火竜の骨髄</Item>
+      </Cost>
+    </Data>
+    <Data Name="加弾珠" Job="ガンナー" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">通常弾追加</Skill>
+          <Skill Point="-1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">炎妃龍の角</Item>
+        <Item Num="1">LV3 通常弾</Item>
+      </Cost>
+    </Data>
+    <Data Name="加貫珠" Job="ガンナー" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">貫通弾追加</Skill>
+          <Skill Point="-1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="3">魚竜の牙</Item>
+        <Item Num="1">LV3 貫通弾</Item>
+      </Cost>
+    </Data>
+    <Data Name="加散珠" Job="ガンナー" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">散弾追加</Skill>
+          <Skill Point="-1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="5">とがった爪</Item>
+        <Item Num="1">LV3 散弾</Item>
+      </Cost>
+    </Data>
+    <Data Name="加榴珠" Job="ガンナー" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">榴弾追加</Skill>
+          <Skill Point="-1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">火炎袋</Item>
+        <Item Num="1">LV3 徹甲榴弾</Item>
+      </Cost>
+    </Data>
+    <Data Name="加拡珠" Job="ガンナー" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">拡散弾追加</Skill>
+          <Skill Point="-1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">炎の龍鱗</Item>
+        <Item Num="1">LV3 拡散弾</Item>
+      </Cost>
+    </Data>
+    <Data Name="増弾珠" Job="ガンナー" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">通常弾追加</Skill>
+          <Skill Point="-1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">炎王龍の角</Item>
+        <Item Num="10">LV3 通常弾</Item>
+      </Cost>
+    </Data>
+    <Data Name="増貫珠" Job="ガンナー" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">貫通弾追加</Skill>
+          <Skill Point="-1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="3">角竜の牙</Item>
+        <Item Num="6">LV3 貫通弾</Item>
+      </Cost>
+    </Data>
+    <Data Name="増散珠" Job="ガンナー" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">散弾追加</Skill>
+          <Skill Point="-1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="3">桃毛獣の爪</Item>
+        <Item Num="6">LV3 散弾</Item>
+      </Cost>
+    </Data>
+    <Data Name="増榴珠" Job="ガンナー" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">榴弾追加</Skill>
+          <Skill Point="-1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">火竜の骨髄</Item>
+        <Item Num="5">LV3 徹甲榴弾</Item>
+      </Cost>
+    </Data>
+    <Data Name="増拡珠" Job="ガンナー" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">拡散弾追加</Skill>
+          <Skill Point="-1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">炎の龍鱗</Item>
+        <Item Num="3">LV3 拡散弾</Item>
+      </Cost>
+    </Data>
+    <Data Name="弾穴珠" Job="ガンナー" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">装填数</Skill>
+          <Skill Point="-1">装填</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">怪鳥の耳</Item>
+        <Item Num="1">魚竜の牙</Item>
+      </Cost>
+    </Data>
+    <Data Name="針穴珠" Job="ガンナー" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">精密射撃</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">雌火竜の棘</Item>
+        <Item Num="1">古龍骨</Item>
+      </Cost>
+    </Data>
+    <Data Name="属攻珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">特殊攻撃</Skill>
+          <Skill Point="-1">回復速度</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">麻痺袋</Item>
+        <Item Num="1">毒袋</Item>
+        <Item Num="1">電気袋</Item>
+      </Cost>
+    </Data>
+    <Data Name="爆師珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="2">爆弾強化</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="2">火炎袋</Item>
+        <Item Num="1">火竜の骨髄</Item>
+      </Cost>
+    </Data>
+    <Data Name="満腹珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">はらへり</Skill>
+          <Skill Point="-1">耐暑</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="3">こんがり肉Ｇ</Item>
+        <Item Num="1">狂走エキス</Item>
+      </Cost>
+    </Data>
+    <Data Name="食漢珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">食いしん坊</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">オニマツタケ</Item>
+        <Item Num="1">フルベビ漬け</Item>
+      </Cost>
+    </Data>
+    <Data Name="気短珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">食事</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">銀シャリ草</Item>
+        <Item Num="1">サシミウオ</Item>
+      </Cost>
+    </Data>
+    <Data Name="美食珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">肉焼き</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">忍耐の種</Item>
+      </Cost>
+    </Data>
+    <Data Name="強精珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">スタミナ</Skill>
+          <Skill Point="-1">地形</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">強走薬グレート</Item>
+        <Item Num="1">こんがり肉Ｇ</Item>
+        <Item Num="1">紅蓮石</Item>
+      </Cost>
+    </Data>
+    <Data Name="天力珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">加護</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">黒真珠</Item>
+      </Cost>
+    </Data>
+    <Data Name="防音珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">聴覚保護</Skill>
+          <Skill Point="-1">加護</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">怪鳥の耳</Item>
+        <Item Num="1">ゴム質の皮</Item>
+      </Cost>
+    </Data>
+    <Data Name="音無珠" Job="共" Rare="5" Slot="3">
+      <Skills>
+          <Skill Point="4">聴覚保護</Skill>
+          <Skill Point="-2">加護</Skill>
+      </Skills>
+      <Cost Type="create" Money="900">
+        <Item Num="1">瑠璃原珠</Item>
+        <Item Num="1">怪鳥の地獄耳</Item>
+        <Item Num="1">ゴム質の皮</Item>
+      </Cost>
+    </Data>
+    <Data Name="文鎮珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">風圧</Skill>
+          <Skill Point="-1">運気</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">黒真珠</Item>
+        <Item Num="1">アルビノエキス</Item>
+        <Item Num="1">角竜の甲殻</Item>
+      </Cost>
+    </Data>
+    <Data Name="重塊珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">風圧</Skill>
+          <Skill Point="-1">運気</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">ライトクリスタル</Item>
+        <Item Num="1">アルビノエキス</Item>
+        <Item Num="1">角竜の甲殻</Item>
+      </Cost>
+    </Data>
+    <Data Name="旅人珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">地形</Skill>
+          <Skill Point="-1">スタミナ</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">ブヨブヨした皮</Item>
+        <Item Num="1">忍耐の丸薬</Item>
+      </Cost>
+    </Data>
+    <Data Name="軽足珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">回避性能</Skill>
+          <Skill Point="-1">耐寒</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">狂走エキス</Item>
+      </Cost>
+    </Data>
+    <Data Name="神足珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="2">回避性能</Skill>
+          <Skill Point="-1">耐寒</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">雌火竜の逆鱗</Item>
+        <Item Num="1">狂走エキス</Item>
+      </Cost>
+    </Data>
+    <Data Name="危機珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">底力</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">アルビノエキス</Item>
+        <Item Num="2">元気ドリンコ</Item>
+      </Cost>
+    </Data>
+    <Data Name="鍵珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">盗み無効</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="2">マタタビ</Item>
+        <Item Num="1">とがった爪</Item>
+      </Cost>
+    </Data>
+    <Data Name="持続珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">効果持続</Skill>
+          <Skill Point="-1">広域</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">活力剤</Item>
+        <Item Num="3">ケルビの角</Item>
+      </Cost>
+    </Data>
+    <Data Name="恒久珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="2">効果持続</Skill>
+          <Skill Point="-1">広域</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">秘薬</Item>
+        <Item Num="2">アルビノエキス</Item>
+      </Cost>
+    </Data>
+    <Data Name="友愛珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">広域</Skill>
+          <Skill Point="-1">気絶</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">たまご券</Item>
+        <Item Num="2">サボテンの花</Item>
+      </Cost>
+    </Data>
+    <Data Name="友情珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">広域</Skill>
+          <Skill Point="-1">気絶</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">瑠璃原珠</Item>
+        <Item Num="1">戦友の絆</Item>
+        <Item Num="2">ドスビスカス</Item>
+      </Cost>
+    </Data>
+    <Data Name="快足珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">運搬</Skill>
+          <Skill Point="-1">気配</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">狂走エキス</Item>
+      </Cost>
+    </Data>
+    <Data Name="快速珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="4">運搬</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">強走薬グレート</Item>
+      </Cost>
+    </Data>
+    <Data Name="耐性珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">全耐性ＵＰ</Skill>
+          <Skill Point="-1">睡眠</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">鋼の龍鱗</Item>
+      </Cost>
+    </Data>
+    <Data Name="万耐珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">全耐性ＵＰ</Skill>
+          <Skill Point="-1">睡眠</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">鋼龍の甲殻</Item>
+        <Item Num="1">炎王龍の甲殻</Item>
+      </Cost>
+    </Data>
+    <Data Name="天耐珠" Job="共" Rare="5" Slot="3">
+      <Skills>
+          <Skill Point="5">全耐性ＵＰ</Skill>
+          <Skill Point="-1">睡眠</Skill>
+      </Skills>
+      <Cost Type="create" Money="900">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">鋼龍の爪</Item>
+        <Item Num="1">炎龍の爪</Item>
+        <Item Num="1">霞龍の爪</Item>
+      </Cost>
+    </Data>
+    <Data Name="火炎珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">火耐性</Skill>
+          <Skill Point="-1">水耐性</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">黒真珠</Item>
+        <Item Num="1">火薬草</Item>
+      </Cost>
+    </Data>
+    <Data Name="紅蓮珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">火耐性</Skill>
+          <Skill Point="-1">水耐性</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">火炎袋</Item>
+      </Cost>
+    </Data>
+    <Data Name="獄炎珠" Job="共" Rare="5" Slot="3">
+      <Skills>
+          <Skill Point="5">火耐性</Skill>
+          <Skill Point="-1">水耐性</Skill>
+      </Skills>
+      <Cost Type="create" Money="900">
+        <Item Num="1">紅蓮石</Item>
+        <Item Num="1">火竜の骨髄</Item>
+      </Cost>
+    </Data>
+    <Data Name="流水珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">水耐性</Skill>
+          <Skill Point="-1">火耐性</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">氷結晶</Item>
+        <Item Num="1">砂竜の鱗</Item>
+      </Cost>
+    </Data>
+    <Data Name="爆水珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">水耐性</Skill>
+          <Skill Point="-1">火耐性</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">水竜の鱗</Item>
+      </Cost>
+    </Data>
+    <Data Name="水鬼珠" Job="共" Rare="5" Slot="3">
+      <Skills>
+          <Skill Point="5">水耐性</Skill>
+          <Skill Point="-1">火耐性</Skill>
+      </Skills>
+      <Cost Type="create" Money="900">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">水竜のヒレ</Item>
+      </Cost>
+    </Data>
+    <Data Name="氷珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">氷耐性</Skill>
+          <Skill Point="-1">雷耐性</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">氷結晶</Item>
+        <Item Num="1">ガウシカの角</Item>
+      </Cost>
+    </Data>
+    <Data Name="氷河珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">氷耐性</Skill>
+          <Skill Point="-1">雷耐性</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">雪獅子の毛</Item>
+      </Cost>
+    </Data>
+    <Data Name="永氷珠" Job="共" Rare="5" Slot="3">
+      <Skills>
+          <Skill Point="5">氷耐性</Skill>
+          <Skill Point="-1">雷耐性</Skill>
+      </Skills>
+      <Cost Type="create" Money="900">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">氷結晶</Item>
+        <Item Num="1">雪獅子の尻尾</Item>
+      </Cost>
+    </Data>
+    <Data Name="雷光珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">雷耐性</Skill>
+          <Skill Point="-1">龍耐性</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽光石</Item>
+        <Item Num="2">ケルビの角</Item>
+      </Cost>
+    </Data>
+    <Data Name="雷鳴珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">雷耐性</Skill>
+          <Skill Point="-1">龍耐性</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">ゴム質の皮</Item>
+      </Cost>
+    </Data>
+    <Data Name="雷神珠" Job="共" Rare="5" Slot="3">
+      <Skills>
+          <Skill Point="5">雷耐性</Skill>
+          <Skill Point="-1">龍耐性</Skill>
+      </Skills>
+      <Cost Type="create" Money="900">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">ゴム質の皮</Item>
+        <Item Num="1">縞模様の皮</Item>
+      </Cost>
+    </Data>
+    <Data Name="破龍珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">龍耐性</Skill>
+          <Skill Point="-1">氷耐性</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">カンタロスの羽</Item>
+        <Item Num="1">モンスターの体液</Item>
+      </Cost>
+    </Data>
+    <Data Name="滅龍珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">龍耐性</Skill>
+          <Skill Point="-1">氷耐性</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="2">カンタロスの羽</Item>
+        <Item Num="1">古龍の血</Item>
+      </Cost>
+    </Data>
+    <Data Name="龍王珠" Job="共" Rare="5" Slot="3">
+      <Skills>
+          <Skill Point="5">龍耐性</Skill>
+          <Skill Point="-1">氷耐性</Skill>
+      </Skills>
+      <Cost Type="create" Money="900">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="2">カンタロスの頭</Item>
+        <Item Num="1">古龍の血</Item>
+      </Cost>
+    </Data>
+    <Data Name="涼風珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">耐暑</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">氷結晶</Item>
+        <Item Num="2">かけた貝殻</Item>
+      </Cost>
+    </Data>
+    <Data Name="冷風珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="4">耐暑</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="2">氷結晶</Item>
+        <Item Num="1">水竜のヒレ</Item>
+        <Item Num="1">砂竜のヒレ</Item>
+      </Cost>
+    </Data>
+    <Data Name="温風珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">耐寒</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽光石</Item>
+        <Item Num="1">火炎袋</Item>
+      </Cost>
+    </Data>
+    <Data Name="暖風珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="4">耐寒</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">紅蓮石</Item>
+        <Item Num="2">陽光石</Item>
+        <Item Num="1">火竜の骨髄</Item>
+      </Cost>
+    </Data>
+    <Data Name="鋭眼珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">地図</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">魚竜の牙</Item>
+        <Item Num="1">サボテンの花</Item>
+      </Cost>
+    </Data>
+    <Data Name="百手珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">採取</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">大地の結晶</Item>
+        <Item Num="1">光蟲</Item>
+      </Cost>
+    </Data>
+    <Data Name="千手珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">採取</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">キラビートル</Item>
+      </Cost>
+    </Data>
+    <Data Name="万手珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">採取</Skill>
+          <Skill Point="1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">ドスヘラクレス</Item>
+      </Cost>
+    </Data>
+    <Data Name="早手珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">高速収集</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">狂走エキス</Item>
+        <Item Num="1">キラビートル</Item>
+      </Cost>
+    </Data>
+    <Data Name="速手珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="4">高速収集</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">狂走エキス</Item>
+        <Item Num="1">ドスヘラクレス</Item>
+      </Cost>
+    </Data>
+    <Data Name="祝珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="2">黒真珠</Item>
+        <Item Num="2">サボテンの花</Item>
+      </Cost>
+    </Data>
+    <Data Name="祝福珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">錆びた龍翼</Item>
+        <Item Num="2">ガウシカの角</Item>
+      </Cost>
+    </Data>
+    <Data Name="皮剥珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">剥ぎ取り</Skill>
+          <Skill Point="-1">スタミナ</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">肉球のスタンプ</Item>
+        <Item Num="1">鋼龍の翼膜</Item>
+      </Cost>
+    </Data>
+    <Data Name="獣剥珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">剥ぎ取り</Skill>
+          <Skill Point="-1">スタミナ</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">肉球のハンコ</Item>
+        <Item Num="1">錆びた龍翼</Item>
+      </Cost>
+    </Data>
+    <Data Name="宝珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">運気</Skill>
+          <Skill Point="-1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">銀のたまご</Item>
+      </Cost>
+    </Data>
+    <Data Name="報珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="2">運気</Skill>
+          <Skill Point="-1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">金のたまご</Item>
+      </Cost>
+    </Data>
+    <Data Name="釣力珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">釣り</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="2">かけた貝殻</Item>
+        <Item Num="1">釣りバッタ</Item>
+      </Cost>
+    </Data>
+    <Data Name="透眼珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">千里眼</Skill>
+          <Skill Point="-1">気配</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">漢方薬</Item>
+        <Item Num="1">千里眼の薬</Item>
+      </Cost>
+    </Data>
+    <Data Name="千里珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="3">千里眼</Skill>
+          <Skill Point="-1">気配</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">秘薬</Item>
+        <Item Num="2">千里眼の薬</Item>
+      </Cost>
+    </Data>
+    <Data Name="万里珠" Job="共" Rare="5" Slot="3">
+      <Skills>
+          <Skill Point="5">千里眼</Skill>
+          <Skill Point="-1">気配</Skill>
+      </Skills>
+      <Cost Type="create" Money="900">
+        <Item Num="1">瑠璃原珠</Item>
+        <Item Num="1">いにしえの秘薬</Item>
+        <Item Num="3">千里眼の薬</Item>
+      </Cost>
+    </Data>
+    <Data Name="回復珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">回復速度</Skill>
+          <Skill Point="-1">毒</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">アルビノの中落ち</Item>
+      </Cost>
+    </Data>
+    <Data Name="快復珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="2">回復速度</Skill>
+          <Skill Point="-1">毒</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">古龍骨</Item>
+        <Item Num="2">生命の粉塵</Item>
+      </Cost>
+    </Data>
+    <Data Name="治癒珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">回復</Skill>
+          <Skill Point="-1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">雌火竜の棘</Item>
+        <Item Num="2">ケルビの角</Item>
+      </Cost>
+    </Data>
+    <Data Name="治癒珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">回復</Skill>
+          <Skill Point="-1">気まぐれ</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">陽翔原珠</Item>
+        <Item Num="1">朽ちた龍翼</Item>
+        <Item Num="1">秘薬</Item>
+      </Cost>
+    </Data>
+    <Data Name="博士珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">調合成功率</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">大地の結晶</Item>
+        <Item Num="1">モンスターの体液</Item>
+      </Cost>
+    </Data>
+    <Data Name="弾製珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="1">弾調合</Skill>
+          <Skill Point="-1">加護</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="2">古龍骨</Item>
+        <Item Num="2">火炎袋</Item>
+      </Cost>
+    </Data>
+    <Data Name="秘術珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">弾調合</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">モンスターの体液</Item>
+      </Cost>
+    </Data>
+    <Data Name="巨獣珠" Job="共" Rare="4" Slot="1">
+      <Skills>
+          <Skill Point="2">モンスター</Skill>
+      </Skills>
+      <Cost Type="create" Money="400">
+        <Item Num="1">水光原珠</Item>
+        <Item Num="1">雷光虫</Item>
+        <Item Num="1">鳴き袋</Item>
+      </Cost>
+    </Data>
+    <Data Name="大砲珠" Job="共" Rare="5" Slot="2">
+      <Skills>
+          <Skill Point="2">砲術師</Skill>
+          <Skill Point="-1">スタミナ</Skill>
+      </Skills>
+      <Cost Type="create" Money="750">
+        <Item Num="1">修羅原珠</Item>
+        <Item Num="1">鋼龍の角</Item>
+        <Item Num="2">怪力の丸薬</Item>
+      </Cost>
+    </Data>
+ </Normal>
+</Jewel>
