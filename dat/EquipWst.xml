@@ -1677,7 +1677,7 @@
             <Item Num="1">ドラグライト鉱石</Item>
           </Cost>
         </L4>
-        <L5 Def="24" Slot="2">
+        <L5 Def="24" Slot="1">
           <Cost Type="upgrade" Money="2844">
             <Item Num="1">炎龍の爪</Item>
             <Item Num="1">火竜の堅殻</Item>
