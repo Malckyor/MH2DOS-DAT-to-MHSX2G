@@ -1746,14 +1746,14 @@
             <Item Num="1">大地の結晶</Item>
           </Cost>
         </L2>
-        <L3 Def="16" Slot="1">
+        <L3 Def="16" Slot="0">
           <Cost Type="upgrade" Money="1880">
             <Item Num="1">岩竜の甲殻</Item>
             <Item Num="1">鉄鉱石</Item>
             <Item Num="1">陽光石</Item>
           </Cost>
         </L3>
-        <L4 Def="19" Slot="1">
+        <L4 Def="19" Slot="0">
           <Cost Type="upgrade" Money="2256">
             <Item Num="1">岩竜の甲殻</Item>
             <Item Num="1">マカライト鉱石</Item>
@@ -1761,7 +1761,7 @@
             <Item Num="1">古龍の血</Item>
           </Cost>
         </L4>
-        <L5 Def="20" Slot="2">
+        <L5 Def="20" Slot="0">
           <Cost Type="upgrade" Money="3008">
             <Item Num="1">岩竜の翼</Item>
             <Item Num="1">岩竜の堅殻</Item>
