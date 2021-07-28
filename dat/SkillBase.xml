@@ -2,12 +2,12 @@
 <Skill>
   <SkillType TypeName="攻勢スキル系">
     <Data No="1" ID="0001" Name="攻撃">
-      <Option Name="攻撃力UP【大】" Point="20" />
+      <Option Name="攻撃力UP【大】" Point="25" />
       <Option Name="攻撃力UP【中】" Point="15" />
       <Option Name="攻撃力UP【小】" Point="10" />
     </Data>
     <Data No="2" ID="0002" Name="達人">
-      <Option Name="見切り+2" Point="20" />
+      <Option Name="見切り+2" Point="25" />
       <Option Name="見切り+1" Point="15" />
       <Option Name="心眼" Point="10" />
     </Data>
